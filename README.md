@@ -23,6 +23,8 @@ Install NodeJS. Also install 'fs' and 'inquirer' packages.
 
 In the correct location, Open integrated terminal and run'node index.js'
 
+Demo URL: https://drive.google.com/file/d/1Nr5amJdFkvQ0MjXFmHoVJa5WVNGv78jy/view
+
 ## License
 
 License: [The MIT License](https://opensource.org/licenses/MIT)
@@ -32,6 +34,15 @@ License: [The MIT License](https://opensource.org/licenses/MIT)
 ## Contributing
 
 Reachout to US @abc.gmail.com
+
+## Credits
+https://developer.mozilla.org/en-US/docs/Web
+
+https://www.w3schools.com/
+
+https://www.geeksforgeeks.org/node-js-fs-writefile-method/
+
+https://www.youtube.com/watch?v=QFV7jzu8mKw
 
 ## Tests
 
